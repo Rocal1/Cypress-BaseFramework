@@ -1,0 +1,25 @@
+{
+  "name": "cypress-baseframework",
+  "version": "1.0.0",
+  "description": "Base framework based on Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocal1/Cypress-BaseFramework.git"
+  },
+  "keywords": [
+    "customKeywords"
+  ],
+  "author": "Rodrigo Calabretta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rocal1/Cypress-BaseFramework/issues"
+  },
+  "homepage": "https://github.com/Rocal1/Cypress-BaseFramework#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
